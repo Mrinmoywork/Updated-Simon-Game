@@ -64,7 +64,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/yourusername/Simon-game.github.io.git
+git clone https://github.com/Mrinmoywork/Simon-game.github.io.git
 
 # Open index.html in your browser
 Or simply open the Live Demo in your browser.
